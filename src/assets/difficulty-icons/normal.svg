@@ -1,11 +1,1 @@
-<svg
-  xmlns="http://www.w3.org/2000/svg"
-  class="icon"
-  viewBox="0 0 75 31"
->
-  <rect x="19.9082" y="10.4523" width="35.0853" height="9.95261" />
-  <rect x="9.38232" y="0.5" width="7.01706" height="29.8578" />
-  <rect x="0.926758" y="5.47617" width="7.01706" height="19.9052" />
-  <rect x="58.502" y="0.5" width="7.01706" height="29.8578" />
-  <rect x="67.5884" y="5.47617" width="7.01706" height="19.9052" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 75 31"><rect width="35.085" height="9.953" x="19.908" y="10.452"/><rect width="7.017" height="29.858" x="9.382" y=".5"/><rect width="7.017" height="19.905" x=".927" y="5.476"/><rect width="7.017" height="29.858" x="58.502" y=".5"/><rect width="7.017" height="19.905" x="67.588" y="5.476"/></svg>
